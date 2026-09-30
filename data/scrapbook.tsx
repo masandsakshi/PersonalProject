@@ -18,7 +18,7 @@ export const scrapbookPages: ScrapbookPage[] = [
     id: "manaswini",
     name: "Manaswini",
     photos: [
-      "/photos/manas.jpeg",
+      "/photos/Manas.jpeg",
     ],
     note: "Love you ANNIEE♡",
   },
